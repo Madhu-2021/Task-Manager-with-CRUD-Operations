@@ -71,6 +71,4 @@ The app uses an SQLite database (`test.db`) to store task information. The datab
 
 This project is open-source and free to use.
 
----
-
-Let me know if you need further modifications!
+Developed by Madhumitha M ☺️
